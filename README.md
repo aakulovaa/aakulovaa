@@ -1,7 +1,7 @@
 Hi!👋🏻 I'm Ann Akulova 
 ===================================================================================================================================  
 
-![cat-work-in-progress](https://github.com/aakulovaa/aakulovaa/assets/152773831/2eaea683-0127-4dbd-ab7c-51b40f685096)
+<img src="https://github.com/aakulovaa/aakulovaa/assets/152773831/2eaea683-0127-4dbd-ab7c-51b40f685096" width="250" alt="404 image"/>
 
 # Languages and Tools:
 
